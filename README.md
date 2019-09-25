@@ -10,3 +10,7 @@ So I left him, saying to myself as I went away; Well, although I do not suppose 
 [GitHub](https://github.com/RRIOPEL18)
 [Vimeo](https://vimeo.com/user91669452)
 [Behance](https://www.behance.net/riop006306a9)
+
+---
+
+ © Robert Riopel
