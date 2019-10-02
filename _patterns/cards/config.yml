@@ -1,0 +1,12 @@
+title: "Cards"
+description: |
+  Cards used as navigation to jump down to specific sections on the page.
+
+patterns:
+  cardhover:
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.cards[0]"
+          type: Cardhover

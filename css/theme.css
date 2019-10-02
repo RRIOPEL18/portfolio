@@ -1,0 +1,26 @@
+:root {
+  --color-primary: #000;
+  --color-primary-light: #fff;
+  --color-secondary: lightblue;
+  --color-accent: #708090;
+  --color-neutral-beige: #c0c0c0;
+  --color-whatever: #696969;
+
+  --font-primary: "EB Garamond", serif;
+  --font-secondary: "Oswald", sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
+
+h1,h2,h3,h4 {
+  font-family: var(--font-secondary);
+  font-weight: 700;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.skip-links {
+  display: none;
+}

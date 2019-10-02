@@ -1,3 +1,26 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+  title: "Robert Riopel"
+  description: |
+    Robert Riopel's portfolio website showcasing Graphic Design creations.
+  font_url: "https://fonts.googleapis.com/css?family=EB+Garamond|Oswald:400,700&display=swap"
+  colors:
+    background: "--color-whatever"
+    accent: "--color-secondary"
+    patterns:
+      brand.logos: "--color-secondary"
+  rationales:
+    typefaces.primary: |
+      EB Garamond was chosen as the primary typeface because it is classic, distinct and easy to read.
+    typefaces.secondary: |
+      Oswald was chosen as the secondary typeface for headers because it is bold, eye catching and fairly legible.
+    colors.primary: |
+      Black is the primary colour.
+    colors.secondary: |
+      Light Blue is the secondary colour.
+
+collections:
+  cards:

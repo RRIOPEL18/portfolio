@@ -1,0 +1,35 @@
+.cardhovertitle::after {
+  content: "";
+  display: block;
+  width: 0%;
+  left: 0;
+  bottom: 0;
+  border-bottom: 4px solid #000;
+  transition: width .2s ease;
+}
+
+.cardhovertext {
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  transition: width .2s ease;
+}
+
+.cardhover:hover .cardhovertext {
+  width:100%;
+}
+.cardhover:hover .cardhovertitle::after {
+  width: 100%;
+}
+
+.black .cardhovertext {
+  color: var(--color-primary);
+}
+
+.white .cardhovertext {
+  color: var(--color-primary-light);
+}
+
+.white .cardhovertitle::after {
+  border-color: var(--color-primary-light);
+}
