@@ -8,10 +8,10 @@ patternbot:
     Robert Riopel's portfolio website showcasing Graphic Design creations.
   font_url: "https://fonts.googleapis.com/css?family=EB+Garamond|Oswald:400,700&display=swap"
   colors:
-    background: "--color-whatever"
-    accent: "--color-secondary"
+    background: "--color-primary-light"
+    accent: "--color-accent"
     patterns:
-      brand.logos: "--color-secondary"
+      brand.logos: "--color-accent"
   rationales:
     typefaces.primary: |
       EB Garamond was chosen as the primary typeface because it is classic, distinct and easy to read.

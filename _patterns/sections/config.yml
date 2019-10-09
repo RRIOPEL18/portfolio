@@ -1,3 +1,12 @@
 title: Sections
-  description: |
-    Sections include parts of the website where content is the focal point, a section of explanitory text is also provided.
+description: |
+  Sections include parts of the website where content is the focal point, a section of explanitory text is also provided.
+
+patterns:
+  sections:
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.cards[11]"
+          type: Cardhover
