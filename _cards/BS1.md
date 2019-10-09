@@ -1,5 +1,5 @@
 ---
 name: "Black Squirrel"
-image: "/images/BS1.png"
+image: "/images/BS-logo.png"
 class: "black"
 ---
