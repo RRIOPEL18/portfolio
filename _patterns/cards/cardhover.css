@@ -17,6 +17,10 @@
 
 .cardhover:hover .cardhoverimage {
   width: 103%;
+  filter: grayscale(80%);
+}
+
+.cardhoverimage {
   transition: .2s ease;
 }
 
