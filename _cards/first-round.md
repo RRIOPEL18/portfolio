@@ -1,7 +1,7 @@
 ---
 name: "First Round"
 image: "/images/first-round1.png"
-class: "black"
+class: "white"
 ---
 
 ![](/images/BS-logo.png)

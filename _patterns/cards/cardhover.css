@@ -32,13 +32,13 @@
 }
 
 .black .cardhovertext {
-  color: var(--color-primary);
+  color: var(--color-secondary);
 }
 
 .white .cardhovertext {
-  color: var(--color-primary-light);
+  color: var(--color-secondary);
 }
 
 .white .cardhovertitle::after {
-  border-color: var(--color-primary-light);
+  border-color: var(--color-secondary);
 }
