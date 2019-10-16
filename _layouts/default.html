@@ -8,10 +8,21 @@
   <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,800|Oswald:400,700&display=swap" rel="stylesheet">
 </head>
 <body>
+
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content></a></li>
+    <li><a href="#nav">Jump to navigation></a></li>
+  </ul>
+
+  <header role="banner" class="masthead" id="header">
   {% pattern navigation/nav logo=page.logo size=page.logo_size %}
 
+<main role="main" id="main" tabindex="0">
   {{content}}
+</main>
 
-  footer
+{% pattern footer/footer %}
+
 </body>
+
 </html>

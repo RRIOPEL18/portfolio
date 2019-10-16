@@ -1,3 +1,12 @@
 title: "Footer"
 description: |
   Footer is placed at the bottom of every page providing contact information and additional site features like social media tags.
+
+patterns:
+  footer:
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.cards[3]"
+          type: Cardhover
