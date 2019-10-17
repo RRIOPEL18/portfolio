@@ -8,5 +8,5 @@ patterns:
       - name: data
         type: object
         data:
-          source: "site.navigation[3]"
+          source: "site.navigation[0]"
           type: Navigation
