@@ -25,3 +25,4 @@ patternbot:
 collections:
   cards:
   navigation:
+    output: true

@@ -15,13 +15,14 @@
   </ul>
 
   <header role="banner" class="masthead" id="header">
-  {% pattern navigation/nav logo=page.logo size=page.logo_size %}
+    {% pattern navigation/nav logo=page.logo size=page.logo_size %}
+  </header>
 
-<main role="main" id="main" tabindex="0">
-  {{content}}
-</main>
+  <main role="main" id="main" tabindex="0">
+    {{content}}
+  </main>
 
-{% pattern footer/footer %}
+  {% pattern footer/footer %}
 
 </body>
 
