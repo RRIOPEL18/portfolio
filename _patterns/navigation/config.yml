@@ -1,12 +1,12 @@
 title: Navigation
-  description: |
-    Main navigation, will be different on every page depending on what case study the user is viewing.
+description: |
+      Main navigation, will be different on every page depending on what case study the user is viewing.
 
 patterns:
   nav:
     fields:
-      - name: data
+      - name: page
         type: object
         data:
-          source: "site.navigation[0]"
+          source: "site.navigation[3]"
           type: Nav
