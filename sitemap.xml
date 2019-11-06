@@ -2,24 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://robotparts.co/</loc>
+    <loc>https://robertriopel.ca/</loc>
     <lastmod>2027-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://robotparts.co/contact</loc>
+    <loc>https://robertriopel.ca/archaic</loc>
     <lastmod>2027-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://robotparts.co/robot-parts</loc>
+    <loc>https://robertriopel.ca/dorsia</loc>
     <lastmod>2027-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
+  <url>
+    <loc>https://robertriopel.ca/blacksquirrel</loc>
+    <lastmod>2027-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+
 
 </urlset>
