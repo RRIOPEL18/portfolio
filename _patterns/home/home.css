@@ -24,15 +24,15 @@ nav {
 }
 
 .go {
-  max-width: 75%;
-  max-height: 75%;
+  max-width: 150%;
+  max-height: 150%;
   margin-left: auto;
   margin-right: auto;
 }
 
-.go2 {
-  max-width: 50%;
-  max-height: 50%;
+.go1 {
+  max-width: 100%;
+  max-height: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -60,9 +60,9 @@ nav {
     margin-right: auto;
   }
 
-  .go2 {
-    max-width: 80%;
-    max-height: 80%;
+  .go1 {
+    max-width: 100%;
+    max-height: 100%;
     margin-left: auto;
     margin-right: auto;
   }
