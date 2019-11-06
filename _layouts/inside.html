@@ -7,7 +7,7 @@ layout: default
     <ul>
       <li class="list-group-inline">
         <a href="#">
-          {% pattern cards/cardhover data=Cardhover %}
+          {% pattern cards/cardhover name=data.name id=data.id class=data.class image=data.image %}
         </a>
       </li>
 
