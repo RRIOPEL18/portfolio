@@ -25,4 +25,8 @@ patternbot:
 collections:
   cards:
   navigation:
+  buttons:
+  home:
+  sections:
+  footer:
     output: true
