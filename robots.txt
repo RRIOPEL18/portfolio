@@ -1,0 +1,6 @@
+# robotstxt.org
+
+Sitemap: http://robotparts.co/sitemap.xml
+
+User-Agent: *
+Disallow:

@@ -1,0 +1,25 @@
+# humanstxt.org
+
+# TEAM
+
+(Write all your team members’ information in here)
+(Any format you’d like—I usually use Markdown)
+
+---
+
+# THANKS
+
+(This is the place where you put sources of things)
+(Locations where you got icons, etc.)
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+(Write what software you’re using)
+
+## Hosting
+
+(Write where the website is hosted & services)
