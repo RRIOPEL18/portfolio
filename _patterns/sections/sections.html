@@ -1,15 +1,12 @@
 <a class="card-whole gutter-1-2" href="https://www.youtube.com/channel/UCq3gNq5FL6DR01_bFSVxyrA/videos">
-<div class="border grid island-2" id="{{include.data.id}}">
+<div class="border grid island-1-2" id="{{include.data.id}}">
   <div>
-    <div class="unit xs-1 s-3-5 m-3-5 l-3-5">
+    <div class="unit xs-1 s-1 m-3-5 l-3-5 gutter-1-4 pad-t-1-4">
       <img class="img-flex max-width" src="{{include.data.image}}" alt="" aria-details="logo"></img>
     </div>
-    <div class="max-width unit xs-1 s-2-5 m-2-5 l-2-5 gutter-2">
+    <div class="max-width text unit xs-1 s-1 m-2-5 l-2-5 pad-t-1-4">
       {{include.data.content|markdownify}}
     </div>
   </div>
-</div>
-<div class="">
-{% pattern buttons/basic %}
 </div>
 </a>

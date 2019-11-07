@@ -1,12 +1,30 @@
-a {
-
-}
-
 .border {
-  border: solid 10px;
-  border-color: var(--color-whatever);
+  border: solid 5px;
+  border-color: var(--color-secondary);
   border-radius: 5px;
 }
 img {
   width: 100%;
+}
+
+.text {
+  padding: none;
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .border {
+    border: solid 10px;
+    border-color: var(--color-secondary);
+    border-radius: 5px;
+  }
+  img {
+    width: 100%;
+    position: relative;
+  }
+
+  .text {
+    text-decoration: none;
+  }
 }
