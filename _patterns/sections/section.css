@@ -1,7 +1,11 @@
+a {
+
+}
+
 .border {
-  border: solid 1.5px;
+  border: solid 10px;
   border-color: var(--color-whatever);
-  border-radius: 3px;
+  border-radius: 5px;
 }
 img {
   width: 100%;

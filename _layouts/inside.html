@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div class="grid gutter-2">
+<div class="grid">
   {% for card in site.archaic-records %}
   <div class="unit xs-1 s-1 m-1-3 l-1-3">
-          {% pattern cards/cardhover data=card %}
-</div>
+    {% pattern cards/cardhover data=card %}
+  </div>
   {% endfor %}
 </div>
 {% for card in site.archaic-records %}
-<div>
-        {% pattern sections/sections data=card %}
+<div class="gutter-2">
+  {% pattern sections/sections data=card %}
 </div>
 {% endfor %}
