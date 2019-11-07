@@ -14,3 +14,7 @@ body {
   position: relative;
   min-height: 100vh;
 }
+
+a:hover {
+  color: var(--color-secondary);
+}
