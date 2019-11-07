@@ -1,5 +1,5 @@
 ---
 layout: inside
 logo: "archaic-logo.png"
-logosize: "128"
+logosize: "96"
 ---
