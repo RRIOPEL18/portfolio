@@ -5,6 +5,6 @@ class: "white"
 id: "guitar"
 ---
 
-![](/images/hoodie-black.png)
+![](/images/convo1.png)
 
-The Wonderland album was a unique experience where I could experiment with photography, illustrations, and the combination. After the release we applied some illustrations to merchandise, and sold it promotionally.
+This was released as a single titled 'What Do You Need', Axel was trying to attain an acoustic folk-like tone. The guitar was drawn by hand and made intentionally to look as if it was not done professionally, the battered guitar is a representation of obstacles overcome.

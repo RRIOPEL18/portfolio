@@ -5,6 +5,6 @@ class: "black"
 id: "makemusic"
 ---
 
-![](/images/hoodie-black.png)
+![](/images/rough1.png)
 
-The Wonderland album was a unique experience where I could experiment with photography, illustrations, and the combination. After the release we applied some illustrations to merchandise, and sold it promotionally.
+'If the Streets Could Make Music' was the first piece I did for Axel and is still one of my favorites to this day. It illustrates the path to success if you will, the path in this case being that of a guitarist. I must credit my good friend #Aaron Sander for her photoshop skills.

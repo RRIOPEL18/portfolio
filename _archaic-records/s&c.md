@@ -1,10 +1,10 @@
 ---
-name: "Sex & Chocolate"
-image: "/images/s&c.png"
+name: "It's Never Enough"
+image: "/images/s&c1.png"
 class: "white"
 id: "s&c"
 ---
 
-![](/images/hoodie-black.png)
+![](/images/og-pic.png)
 
-The Wonderland album was a unique experience where I could experiment with photography, illustrations, and the combination. After the release we applied some illustrations to merchandise, and sold it promotionally.
+I enjoy integrating different aspects of design in to my projects. For example 'It's Never Enough' was initially a beautiful photograph that Axel wanted to use. But after creating some custom brushes we decided painting over it could make it even more appealing.
