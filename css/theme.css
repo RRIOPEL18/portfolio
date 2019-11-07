@@ -21,9 +21,15 @@ h1,h2,h3,h4 {
   text-decoration: none;
 }
 
+h5 {
+  font-family: var(--font-secondary);
+  font-weight: 400;
+  color: var(--color-primary);
+}
+
 p {
   font-family: var(--font-primary);
-  font-weight: 800;
+  font-weight: 400;
   color: var(--color-primary);
   text-decoration: none;
 }

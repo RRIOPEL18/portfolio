@@ -3,8 +3,14 @@ a {
 }
 
 footer {
-  position: fixed;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
+}
+
+body {
+  padding-bottom: 8em;
+  position: relative;
+  min-height: 100vh;
 }

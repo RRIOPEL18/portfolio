@@ -4,6 +4,7 @@
   width: 0%;
   left: 0;
   bottom: 0;
+  top: 100em;
   border-bottom: 5px solid var(--color-secondary);
   transition: width .2s ease;
 }

@@ -8,5 +8,5 @@ patterns:
       - name: data
         type: object
         data:
-          source: "site.cards[1]"
+          source: "site.archaic-records[2]"
           type: Cardhover

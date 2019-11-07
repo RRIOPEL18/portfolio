@@ -3,30 +3,19 @@
 
   <url>
     <loc>https://robertriopel.ca/</loc>
-    <lastmod>2027-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://robertriopel.ca/archaic</loc>
-    <lastmod>2027-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://robertriopel.ca/archaic-records</loc>
   </url>
 
   <url>
-    <loc>https://robertriopel.ca/dorsia</loc>
-    <lastmod>2027-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://robertriopel.ca/dorsia-club</loc>
   </url>
 
   <url>
-    <loc>https://robertriopel.ca/blacksquirrel</loc>
-    <lastmod>2027-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://robertriopel.ca/black-squirrel</loc>
   </url>
 
 
