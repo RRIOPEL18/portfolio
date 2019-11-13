@@ -1,12 +1,12 @@
 .btn {
-  background-color: var(--color-secondary);
+  background-color: var(--color-neutral-beige);
   border-color: var(--color-accent);
   color: var(--color-accent);
   position: absolute;
 }
 
 .btn:hover {
-  color: var(--color-secondary);
-  background-color: var(--color-primary);
+  color: var(--color-accent);
+  background-color: var(--color-secondary);
   border-color: var(--color-accent);
 }
