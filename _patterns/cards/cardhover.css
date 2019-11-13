@@ -45,3 +45,7 @@
 .white .cardhovertitle::after {
   border-color: var(--color-secondary);
 }
+
+@media only screen and (min-width: 38em) {
+
+}
