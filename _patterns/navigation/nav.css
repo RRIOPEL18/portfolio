@@ -1,0 +1,13 @@
+.contact {
+  margin: inherit;
+}
+
+.word {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
+
+.word:hover {
+  color: var(--color-secondary);
+  text-decoration: underline;
+}

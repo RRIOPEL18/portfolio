@@ -1,7 +1,7 @@
 ---
 name: "Third Round"
 image: "/images/third-round.png"
-class: "black"
+class: "white"
 ---
 
 ![](/images/hoodie-black.png)

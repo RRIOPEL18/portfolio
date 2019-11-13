@@ -5,9 +5,6 @@ nav {
 
 .center {
   margin: auto;
-  top: 35%;
-  transform: translateY(-35%);
-  position: absolute;
 }
 
 .twolines {
@@ -17,10 +14,12 @@ nav {
 
 .bs-logo {
   max-width: 55%;
-  max-height: 55%;
+  max-height: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 3em;
+  padding-top: 5em;
+  padding-bottom:3em;
+  transition: all .3s ease;
 }
 
 .go {
@@ -28,6 +27,7 @@ nav {
   max-height: 150%;
   margin-left: auto;
   margin-right: auto;
+  transition: all .3s ease;
 }
 
 .go1 {
@@ -35,6 +35,11 @@ nav {
   max-height: 100%;
   margin-left: auto;
   margin-right: auto;
+  transition: all .3s ease;
+}
+
+.go:hover, .go1:hover, .bs-logo:hover {
+  transform: scale(1.1);
 }
 
 @media only screen and (min-width: 38em) {
@@ -45,12 +50,19 @@ nav {
     border-right: solid 1px #000;
   }
 
+  .center {
+    top: 35%;
+    transform: translateY(-35%);
+    position: absolute;
+  }
+
   .bs-logo {
     max-width: 75%;
     max-height: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-top: .7em;
+    padding-top: 2em;
+    transition: all .3s ease;
   }
 
   .go {
@@ -58,6 +70,8 @@ nav {
     max-height: 150%;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 1.2em;
+    transition: all .3s ease;
   }
 
   .go1 {
@@ -65,5 +79,11 @@ nav {
     max-height: 100%;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 2em;
+    transition: all .3s ease;
+  }
+
+  .go:hover, .go1:hover, .bs-logo:hover {
+    transform: scale(1.1);
   }
 }

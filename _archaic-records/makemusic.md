@@ -7,4 +7,4 @@ id: "makemusic"
 
 ![](/images/rough1.png)
 
-'If the Streets Could Make Music' was the first piece I did for Axel and is still one of my favorites to this day. It illustrates the path to success if you will, the path in this case being that of a guitarist. I must credit my good friend #Aaron Sander for her photoshop skills.
+'If the Streets Could Make Music' was the first piece I did for Axel and is still one of my favorites. It illustrates the path to success if you will, the path in this case being that of a guitarist. I must credit my good friend [Aaron Sander](https://aaronsander.ca) for her help and mad photoshop skills.

@@ -8,5 +8,5 @@ patterns:
       - name: page
         type: object
         data:
-          source: "site.navigation[0]"
+          source: "site.pages[2]"
           type: Nav

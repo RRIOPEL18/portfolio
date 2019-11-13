@@ -3,6 +3,7 @@ name: "Cold Shoulder"
 image: "/images/cold-shoulder.png"
 class: "white"
 id: "cold-shoulder"
+button: "basic"
 ---
 
 ![](/images/cs-og-photo.png)

@@ -1,7 +1,7 @@
 ---
 name: "Sketches"
 image: "/images/sketch-thumb.png"
-class: "black"
+class: "white"
 ---
 
 ![](/images/sketch2-thumb.png)

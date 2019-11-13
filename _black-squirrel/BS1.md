@@ -1,7 +1,7 @@
 ---
 name: "Black Squirrel"
 image: "/images/BS-logo.png"
-class: "black"
+class: "white"
 ---
 
 Black Squirrel's current logo is a poor representation of some of their most reputable qualities.

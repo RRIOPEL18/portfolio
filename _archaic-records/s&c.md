@@ -7,4 +7,4 @@ id: "s&c"
 
 ![](/images/og-pic.png)
 
-I enjoy integrating different aspects of design in to my projects. For example 'It's Never Enough' was initially a beautiful photograph that Axel wanted to use. But after creating some custom brushes we decided painting over it could make it even more appealing.
+I enjoy integrating different aspects of design in to my projects. For example 'It's Never Enough' was initially a beautiful photograph that Axel wanted to use. But after creating some custom brushes we decided painting over it could be more appealing.

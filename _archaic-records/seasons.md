@@ -5,6 +5,8 @@ class: "white"
 id: "seasons"
 ---
 
-![](/images/trippy-sketch.png)
+<div class="season-sketch">
+  <img src="/images/trippy-sketch.png" alt="">
+</div>
 
-The Wonderland album was a unique experience where I could experiment with photography, illustrations, and the combination. After the release we applied some illustrations to merchandise, and sold it promotionally.
+'Seasons' was initially hand drawn as a sort of stream-of-consciousness meditative practice. The masks depict a dramatic change in emotion as an analogy for the change in climate. Axel wanted to visually display the drastic changes in his life around the time of this albums release.
