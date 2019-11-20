@@ -1,8 +1,8 @@
 .btn {
+  opacity: 30%;
   background-color: var(--color-neutral-beige);
   border-color: var(--color-accent);
   color: var(--color-accent);
-  position: absolute;
 }
 
 .btn:hover {

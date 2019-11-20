@@ -37,3 +37,9 @@ p {
 .skip-links {
   display: none;
 }
+
+.back-to-top {
+  bottom: 0;
+  right: 2em;
+  z-index: 1000;
+}
