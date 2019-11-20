@@ -39,7 +39,7 @@ p {
 }
 
 .back-to-top {
-  bottom: 0;
-  right: 2em;
+  bottom: 2em;
+  right: 2.6em;
   z-index: 1000;
 }
