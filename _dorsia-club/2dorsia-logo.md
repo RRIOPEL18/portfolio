@@ -1,6 +1,6 @@
 ---
-name: "The Background"
-image: "/images/dorsia-background.svg"
+name: "The Logo"
+image: "/images/dorsia-logo-2.png"
 class: "white"
 ---
 

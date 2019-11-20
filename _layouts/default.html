@@ -34,9 +34,11 @@
 
   <main role="main" id="main" tabindex="0">
     {{content}}
+    {% unless page.url=='/' %}
     <div class="back-to-top fixed">
-    {% pattern buttons/basic %}
+    {% pattern buttons/back-to-top %}
   </div>
+  {% endunless %}
   </main>
 
     {% pattern footer/footer %}

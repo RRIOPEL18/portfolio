@@ -1,13 +1,19 @@
 .btn {
-  opacity: 0.5;
   background-color: var(--color-neutral-beige);
   border-color: var(--color-accent);
   color: var(--color-accent);
 }
 
 .btn:hover {
-  opacity: 1;
   color: var(--color-accent);
   background-color: var(--color-secondary);
   border-color: var(--color-accent);
+}
+
+.btn-opacity {
+  opacity: 0.5;
+}
+
+.btn-opacity:hover {
+  opacity: 1;
 }
