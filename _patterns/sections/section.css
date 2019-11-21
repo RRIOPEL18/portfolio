@@ -21,7 +21,7 @@ img {
 }
 
 .card-pic {
-  padding: .7rem;
+  padding: .5rem;
 }
 
 @media only screen and (min-width: 25em) {
@@ -39,15 +39,19 @@ img {
   }
 
   .text {
-    padding: .8rem;
+    padding: .5rem;
   }
 
   .section-box {
-    padding: .8rem;
+    padding: .5rem;
   }
 
   .section-wrap {
-    padding: .8rem;
+    padding: .5rem;
+  }
+
+  .card-pic {
+    padding: .5rem;
   }
 }
 
@@ -66,11 +70,11 @@ img {
   }
 
   .text {
-    padding: .1rem;
+    padding: .5rem;
   }
 
   .section-box {
-    padding: .4rem;
+    padding: .5rem;
   }
 
   .section-wrap {
@@ -78,7 +82,7 @@ img {
   }
 
   .card-pic {
-    padding: .1rem;
+    padding-top: .5rem;
   }
 }
 
@@ -97,34 +101,20 @@ img {
   }
 
   .text {
-    text-decoration: none;
+    padding: .5rem;
   }
 
-  .buttin {
-    margin-left: 10em;
-    margin-right: 2em;
-    margin-top: 2em;
+  .section-box {
+    padding: .5rem;
   }
 
-  .season-sketch {
-    max-width: 80%;
-    max-height: 80%;
-    margin-left: auto;
-    margin-right: auto;
+  .section-wrap {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
 
-  .bs-colour {
-    max-width: 100%;
-    max-height: 100%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .cs-og {
-    max-width: 100%;
-    max-height: 100%;
-    margin-left: auto;
-    margin-right: auto;
+  .card-pic {
+    padding: .5rem;
   }
 }
 
@@ -143,33 +133,19 @@ img {
   }
 
   .text {
-    text-decoration: none;
+    padding: .5rem;
   }
 
-  .buttin {
-    margin-left: 7.5em;
-    margin-right: 2em;
-    margin-top: 2em;
+  .section-box {
+    padding: .5rem;
   }
 
-  .season-sketch {
-    max-width: 80%;
-    max-height: 80%;
-    margin-left: auto;
-    margin-right: auto;
+  .section-wrap {
+    padding-right: 7.5rem;
+    padding-left: 7.5rem;
   }
 
-  .bs-colour {
-    max-width: 100%;
-    max-height: 100%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .cs-og {
-    max-width: 100%;
-    max-height: 100%;
-    margin-left: auto;
-    margin-right: auto;
+  .card-pic {
+    padding: .5rem;
   }
 }
