@@ -170,10 +170,10 @@ nav {
   }
 
   .bs-logo {
-    transform: scale(1.7);
+    transform: scale(1.6);
     margin-left: auto;
     margin-right: auto;
-    padding-top: 2.7em;
+    padding-top: 2.5em;
     transition: all .3s ease;
   }
 
@@ -181,7 +181,7 @@ nav {
     transform: scale(1.1);
     margin-left: auto;
     margin-right: auto;
-    padding-top: 1.2em;
+    padding-top: 1em;
     transition: all .3s ease;
   }
 
@@ -194,7 +194,7 @@ nav {
   }
 
   .bs-logo:hover {
-    transform: scale(1.8);
+    transform: scale(1.7);
   }
 
   .go:hover {
