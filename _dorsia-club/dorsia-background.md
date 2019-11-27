@@ -1,9 +1,11 @@
 ---
-name: "The Background"
-image: "/images/dorsia-background.svg"
+name: "Visit"
+image: "/images/dorsia-home-screen.png"
 class: "white"
 ---
 
 <p class="push-0">
-The Wonderland album was a unique experience where I could experiment with photography, illustrations, and the combination. After the release we applied some illustrations to merchandise, and sold it promotionally.
+If you wish to see more about this project please visit our website.
+<br>
+<a href="https://dorsia.club"><i>The DORSIA Club</i></a>
 </p>
