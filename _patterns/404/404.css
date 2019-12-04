@@ -1,0 +1,67 @@
+.home-button {
+  bottom: 65%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.warning {
+  left: 25%;
+  top: 50%;
+  transform: scale(1);
+}
+
+@media only screen and (min-width: 25em) {
+  .home-button {
+    bottom: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .warning {
+    left: 2%;
+    top: 12%;
+    transform: scale(1);
+  }
+}
+
+@media only screen and (min-width: 38em) {
+  .home-button {
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .warning {
+    left: 45%;
+    top: 50%;
+    transform: scale(2);
+  }
+}
+
+@media only screen and (min-width: 60em) {
+  .home-button {
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .warning {
+    left: 25%;
+    top: 50%;
+    transform: scale(2);
+  }
+}
+
+@media only screen and (min-width: 90em) {
+  .home-button {
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .warning {
+    left: 2%;
+    top: 50%;
+    transform: scale(2.5);
+  }
+}
