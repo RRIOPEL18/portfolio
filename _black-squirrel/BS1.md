@@ -4,8 +4,6 @@ image: "/images/BS-logo.png"
 class: "white"
 ---
 
-![](/images/moodboard.png)
-
 <p>
 Black Squirrel's current logo is a poor representation of some of their most reputable qualities.</p>
 <a href="https://www.blacksquirrelbooks.ca/"><b>Company Site</b></a>
