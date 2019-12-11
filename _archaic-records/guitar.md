@@ -1,7 +1,7 @@
 ---
 name: "What Do You Need"
 image: "/images/axel1.png"
-class: "black"
+class: "white"
 id: "guitar"
 ---
 
