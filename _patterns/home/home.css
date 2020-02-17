@@ -42,6 +42,10 @@ nav {
   transform: scale(1.1);
 }
 
+.texter-links {
+  bottom: 0.1rem;
+}
+
 @media only screen and (min-width: 38em) {
   nav {
     top: 5em;
@@ -95,6 +99,10 @@ nav {
 
   .go1:hover {
     transform: scale(1.5);
+  }
+
+  .texter-links {
+    top: 20rem;
   }
 }
 
@@ -153,6 +161,9 @@ nav {
     transform: scale(1.5);
   }
 
+  .texter-links {
+    top: 20rem;
+  }
 }
 
 @media only screen and (min-width: 90em) {
@@ -203,5 +214,9 @@ nav {
 
   .go1:hover{
     transform: scale(1.5);
+  }
+
+  .texter-links {
+    top: 18rem;
   }
 }
