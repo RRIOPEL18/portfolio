@@ -1,13 +1,13 @@
 ---
 name: "Cold Shoulder"
-image: "/images/cold-shoulder.png"
+image: "/images/cold-shoulder.jpg"
 class: "white"
 id: "cold-shoulder"
 button: "basic"
 ---
 
 <div class="cs-og">
-  <img src="/images/cs-og-photo.png" alt="">
+  <img src="/images/cs-og.jpg" alt="">
 </div>
 
 <p class="push-0">

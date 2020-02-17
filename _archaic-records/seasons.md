@@ -1,12 +1,12 @@
 ---
 name: "Seasons"
-image: "/images/seasons.png"
+image: "/images/seasons.jpg"
 class: "white"
 id: "seasons"
 ---
 
 <div class="season-sketch">
-  <img src="/images/trippy-sketch.png" alt="">
+  <img src="/images/trippy-sketch.jpg" alt="">
 </div>
 
 <p class="push-0">

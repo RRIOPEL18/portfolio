@@ -1,11 +1,11 @@
 ---
 name: "Final"
-image: "/images/final-b.png"
+image: "/images/final-a.png"
 class: "white"
 ---
 
 <div class="bs-colour">
-  <img src="/images/bs-colour.png" alt="">
+  <img src="/images/final-b.png" alt="">
 </div>
 
 <p class="push-0">

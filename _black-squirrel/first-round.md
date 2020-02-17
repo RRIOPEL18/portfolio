@@ -1,6 +1,6 @@
 ---
 name: "First Round"
-image: "/images/first-round1.png"
+image: "/images/first-round1.jpg"
 class: "white"
 ---
 

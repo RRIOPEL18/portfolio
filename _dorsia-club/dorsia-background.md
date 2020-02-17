@@ -1,6 +1,6 @@
 ---
 name: "Visit"
-image: "/images/dorsia-home-screen.png"
+image: "/images/dorsia-home-screen.jpg"
 class: "white"
 ---
 

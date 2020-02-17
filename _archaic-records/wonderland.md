@@ -1,6 +1,6 @@
 ---
 name: "Wonderland"
-image: "/images/wonderland.png"
+image: "/images/wonderland.jpg"
 class: "white"
 id: "wonderland"
 ---
