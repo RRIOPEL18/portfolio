@@ -6,4 +6,5 @@
 {% include_relative type.css %}
 {% include_relative theme.css %}
 {% include_relative misc.css %}
+{% include_relative motion.css %}
 {% pattern_css %}
