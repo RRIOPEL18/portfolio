@@ -1,10 +1,10 @@
 .contact {
   margin: inherit;
+  text-decoration: none;
 }
 
 .word {
   color: var(--color-primary);
-  text-decoration: underline;
 }
 
 .word:hover {
