@@ -43,6 +43,7 @@ tmp
 *.oga
 *.ogg
 *.opus
+*.mp4
 
 # Folder view configuration files
 .DS_Store
