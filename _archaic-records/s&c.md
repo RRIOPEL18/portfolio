@@ -8,5 +8,5 @@ id: "s&c"
 ![](/images/og-pic.jpg)
 
 <p class="push-0">
-'It's Never Enough' was initially just a beautiful photograph that Axel wanted to use. But after creating some custom brushes we decided painting over it could be more appealing. It is important to explore different avenues in design. Fine Ruben era styled paintings combined with contemporary modern art inspired this piece.
+'It's Never Enough' began with an appealing photograph. After creating some custom brushes I decided painting over it would be more appealing. It is important to explore different avenues in design. Fine Ruben era paintings combined with modern animation inspired this piece.
 </p>

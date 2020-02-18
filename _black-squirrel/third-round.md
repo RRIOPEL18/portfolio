@@ -7,6 +7,6 @@ class: "white"
 ![](/images/bs-colours.png)
 
 <p class="push-0">
-My second concept incorporated parts of the final logo. This design was meant to be similar to that of Starbucks* in the sense that their logo is in the form of a badge.<br>
-Next is the color palette chosen for the logo and brand identity. Browns color psychology is associated with nature, strength, and security. It is also representative of the coffee bean, and brown squirrel's; seems pretty obvious?
+My third concept includes the final logo as well, but mimics a pre-existing brand identity.<br>
+The color palette chosen is also shown. Brown is associated with nature, strength, and security. Furthermore it is representative of the coffee bean, and brown squirrel's; seemed pretty obvious.
 </p>

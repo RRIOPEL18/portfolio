@@ -8,5 +8,5 @@ id: "wonderland"
 ![](/images/t-shirt.png)
 
 <p class="push-0">
-The Wonderland album was a unique experience, I was able to experiment with photography, illustrations, and combining the two. After the release we applied some illustrations to t-shirts and hoodies, selling them promotionally.
+'Wonderland' was a unique experience, I was able to experiment with photography, illustrations, and combining the two. After the release we applied the albums illustrations to t-shirts and hoodies, then sold them promotionally.
 </p>

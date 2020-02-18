@@ -10,5 +10,5 @@ id: "seasons"
 </div>
 
 <p class="push-0">
-'Seasons' was a hand drawn piece of mine done through standard creative practice. The masks depict a dramatic change in emotion as an analogy for the change in climate. Axel wanted to exhibit significant changes that took place around the time of this albums release.
+'Seasons' was a hand drawn piece illustrated during standard creative practice. The masks depict a dramatic change in emotion as an analogy for the change in climate. Axel also wanted to exhibit his own significant life changes that took place around the time of this albums release.
 </p>
