@@ -1,10 +1,10 @@
 ---
 name: "Second Round"
-image: "/images/second-round.png"
+image: "/images/third-round.png"
 class: "white"
 ---
 
 ![](/images/moodboard.jpg)
 
-My second concept incorporated parts of the final logo. This design was meant to be similar to that of Starbucks* in the sense that their logo is in the form of a badge.<br>
-Pictured also is a mood-board depicting some color tones and imagery associated with coffee shops; this was used as a guideline.
+Pictured above is a version of what the final product with word-mark would look like. The font is EB Garamond; used in most classic literature, and a symbol of sophistication.<br>
+Next is a mood-board depicting some color tones and imagery associated with coffee shops; this was used for reference.

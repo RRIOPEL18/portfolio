@@ -11,5 +11,5 @@ button: "basic"
 </div>
 
 <p class="push-0">
-'Cold Shoulder' is an early project designed to evoke dark emotions with blues undertones. The original photograph is not my work, it was taken in BC, afterwards I edited it in photoshop. The scratchy font is used analogically and represents trying to escape our emotions; scratching away at fear in an attempt to become stronger.<br>
+'Cold Shoulder' is designed to evoke dark emotions with blues undertones. The original photograph is not mine, but was taken in BC, afterwards I edited it in photoshop. The scratchy font is used as an analogy and depicts the desire to escape our emotions.<br>
 <a href="/media/riopel_robert_redo-project.pdf"><b>Link to PDF<b>

@@ -1,11 +1,12 @@
 ---
 name: "Third Round"
-image: "/images/third-round.png"
+image: "/images/second-round.png"
 class: "white"
 ---
 
 ![](/images/bs-colours.png)
 
 <p class="push-0">
-Pictured above is a version of what the final product with word-mark would look like. The font is EB Garamond; used in most classic literature, and a symbol of sophistication. Next is the color palette chosen for the logo and brand identity. Browns color psychology is associated with nature, strength, and security. It is also representative of the coffee bean, and brown squirrel's; seems pretty obvious?
+My second concept incorporated parts of the final logo. This design was meant to be similar to that of Starbucks* in the sense that their logo is in the form of a badge.<br>
+Next is the color palette chosen for the logo and brand identity. Browns color psychology is associated with nature, strength, and security. It is also representative of the coffee bean, and brown squirrel's; seems pretty obvious?
 </p>
