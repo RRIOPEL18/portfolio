@@ -1,0 +1,31 @@
+.big-daddy {
+  max-height: 160px;
+}
+
+@media only screen and (min-width: 26em) {
+
+  .big-daddy {
+    max-height: 260px;
+  }
+}
+
+@media only screen and (min-width: 38em) {
+
+  .big-daddy {
+    max-height: 320px;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+
+  .big-daddy {
+    max-height: 500px;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  .big-daddy {
+    max-height: 900px;
+  }
+}
