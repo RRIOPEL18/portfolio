@@ -1,10 +1,12 @@
 .big-daddy {
+  display: block;
   max-height: 160px;
 }
 
 @media only screen and (min-width: 26em) {
 
   .big-daddy {
+    display: block;
     max-height: 260px;
   }
 }
@@ -12,6 +14,7 @@
 @media only screen and (min-width: 38em) {
 
   .big-daddy {
+    display: block;
     max-height: 320px;
   }
 }
@@ -19,6 +22,7 @@
 @media only screen and (min-width: 60em) {
 
   .big-daddy {
+    display: block;
     max-height: 500px;
   }
 }
