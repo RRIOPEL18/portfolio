@@ -43,7 +43,7 @@ nav {
 }
 
 .texter-links {
-  bottom: 0.1rem;
+  top: 12rem;
   text-decoration: none;
 }
 
@@ -218,6 +218,6 @@ nav {
   }
 
   .texter-links {
-    top: 18.5rem;
+    top: 600rem;
   }
 }
